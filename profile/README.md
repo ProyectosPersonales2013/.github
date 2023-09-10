@@ -4,8 +4,21 @@
 o por si necesitamos el codigo para otro proyecto que tengamos </p>
 <hr>
 <h1>Miembros</h1>
-<p></p><a href="https://github.com/BryanGuevara">🙍🏻‍♂️ Bryan Guevara</a></p>
-<p></p><a href="https://github.com/Belencanizales1322">🙍🏻‍♀️ Belén Canizales</a></p>
+
+<h2>Belén Canizales</h2>
+<br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Belencanizales1322" alt="Belencanizales1322" /></a> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Belencanizales1322&show_icons=true&locale=en&layout=compact" alt="Belencanizales1322" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Belencanizales1322&show_icons=true&locale=en" alt="Belencanizales1322" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Belencanizales1322&" alt="Belencanizales1322" /></p>
+<br>
+<h2>Bryan Guevara</h2>
+<br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bryanguevara" alt="bryanguevara" /></a> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bryanguevara&show_icons=true&locale=en&layout=compact" alt="bryanguevara" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bryanguevara&show_icons=true&locale=en" alt="bryanguevara" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bryanguevara&" alt="bryanguevara" /></p>
+
 <hr>
 <h1>Lenguajes que sabemos usar</h1>
 <h2>FrontEnd</h2>
