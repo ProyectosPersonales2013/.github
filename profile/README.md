@@ -7,17 +7,17 @@ o por si necesitamos el codigo para otro proyecto que tengamos </p>
 
 <h2>Belén Canizales</h2>
 <br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Belencanizales1322" alt="Belencanizales1322" /></a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Belencanizales1322&show_icons=true&locale=en&layout=compact" alt="Belencanizales1322" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Belencanizales1322&show_icons=true&locale=en" alt="Belencanizales1322" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Belencanizales1322&" alt="Belencanizales1322" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Belencanizales1322&theme=onedark" alt="Belencanizales1322" /></a> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Belencanizales1322&show_icons=true&locale=en&layout=compact&theme=onedark" alt="Belencanizales1322" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Belencanizales1322&show_icons=true&locale=en&theme=onedark" alt="Belencanizales1322" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Belencanizales1322&theme=onedark" alt="Belencanizales1322" /></p>
 <br>
 <h2>Bryan Guevara</h2>
 <br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bryanguevara" alt="bryanguevara" /></a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bryanguevara&show_icons=true&locale=en&layout=compact" alt="bryanguevara" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bryanguevara&show_icons=true&locale=en" alt="bryanguevara" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bryanguevara&" alt="bryanguevara" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bryanguevara&theme=onedark" alt="bryanguevara" /></a> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bryanguevara&theme=onedark&show_icons=true&locale=en&layout=compact" alt="bryanguevara" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bryanguevara&show_icons=true&locale=en&theme=onedark" alt="bryanguevara" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bryanguevara&theme=onedark" alt="bryanguevara" /></p>
 
 <hr>
 <h1>Lenguajes que sabemos usar</h1>
