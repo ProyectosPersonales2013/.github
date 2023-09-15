@@ -1,25 +1,30 @@
-<h1>Organizacion GyC</h1>
-<p>Oragizacion proyectos personales, tambien conocida como Organizacion G&C (Guevara y Canizales)</p>
-<p>esta organización esta hecha para ir guardando los proyectos personales hechos por Bryan y Belén, para que quede guardada una copia de seguridad
-o por si necesitamos el codigo para otro proyecto que tengamos </p>
-<hr>
-<h1>Miembros</h1>
+# Organización GyC
 
-<h2>Belén Canizales</h2>
-<br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Belencanizales1322&theme=onedark" alt="Belencanizales1322" /></a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Belencanizales1322&show_icons=true&locale=en&layout=compact&theme=onedark" alt="Belencanizales1322" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Belencanizales1322&show_icons=true&locale=en&theme=onedark" alt="Belencanizales1322" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Belencanizales1322&theme=onedark" alt="Belencanizales1322" /></p>
-<br>
-<h2>Bryan Guevara</h2>
-<br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bryanguevara&theme=onedark" alt="bryanguevara" /></a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bryanguevara&theme=onedark&show_icons=true&locale=en&layout=compact" alt="bryanguevara" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bryanguevara&show_icons=true&locale=en&theme=onedark" alt="bryanguevara" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bryanguevara&theme=onedark" alt="bryanguevara" /></p>
+<div align="center">
+<img src="https://github.com/BryanGuevara/BryanGuevara/blob/main/img/BryanGuevara.jpg" width="300" height="240">
+</div>
+
+## Descripción
+La Organización GyC (Guevara y Canizales) se dedica a gestionar proyectos personales de <a href="https://github.com/BryanGuevara">Bryan</a> y <a href="https://github.com/Belencanizales1322">Belén</a>. Aquí guardamos una copia de seguridad de nuestros proyectos y compartimos código entre nosotros. Además, esta organización nos permite tener acceso a nuestro código en caso de que lo necesitemos para futuros proyectos.
 
 <hr>
+
+## Miembros
+
+### Belén Canizales
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Belencanizales1322&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Belencanizales1322&show_icons=true&locale=en&layout=compact&theme=onedark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Belencanizales1322&show_icons=true&locale=en&theme=onedark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Belencanizales1322&theme=onedark)
+
+### Bryan Guevara
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=bryanguevara&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=bryanguevara&theme=onedark&show_icons=true&locale=en&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bryanguevara&show_icons=true&locale=en&theme=onedark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bryanguevara&theme=onedark)
+
+<hr>
+
 <h1>Lenguajes que sabemos usar</h1>
 <h2>FrontEnd</h2>
 <p>
