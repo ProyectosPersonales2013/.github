@@ -44,5 +44,6 @@ La Organización GyC (Guevara y Canizales) se dedica a gestionar proyectos perso
 <h2>Otros</h2>
 <p> 
    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80" style="display: inline;"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/2560px-Markdown-mark.svg.png" alt="markdown" width="80" height="80" style="display: inline;"/>
 </p>
 
